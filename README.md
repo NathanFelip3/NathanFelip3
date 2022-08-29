@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @NathanFelip3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NathanFelip3/NathanFelip3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Sobre mim
+- 👋 Óla meu nome é @NathanFelip3
+- 👀 Meu nome de contato é nathan.mendonca.silva@escola.pr.gov.br
